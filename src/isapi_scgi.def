@@ -1,0 +1,6 @@
+; Declares the module parameters for the DLL.
+
+EXPORTS
+   GetExtensionVersion
+   HttpExtensionProc
+   TerminateExtension
